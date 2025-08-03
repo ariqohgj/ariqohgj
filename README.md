@@ -4,7 +4,7 @@
 **ariqohgj/ariqohgj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-HII!! I’m a C# Developer specializing in .Net Framework, VB.NET, ASP.NET and Unity.
+HII!! I’m a UI/UX Designer and C# Developer specializing in .Net Framework, VB.NET, ASP.NET and Unity.
 
 - 👓 I'm interested on UI/UX Design, Backend Developer, Frontend Developer, Application Developer and some Web3 Stuff
 - 🏃‍♀️‍➡️ Currently I'm learning more UI/UX Design, Backend Developer and Application Developer
